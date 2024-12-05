@@ -15,5 +15,3 @@ def decrypt_text(filename, output_filename):
         output_file.write(decrypted_text)
 
 
-if __name__ == "__main__":
-    decrypt_text('resources/encrypted.txt', 'resources/decrypted.txt')

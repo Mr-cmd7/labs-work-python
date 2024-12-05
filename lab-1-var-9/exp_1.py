@@ -10,3 +10,4 @@ def find_index(arr, target=13):
 
 array = (1, 2, 3, 13, 5)
 find_index(array)
+
